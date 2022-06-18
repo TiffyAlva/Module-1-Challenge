@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-/**/
+/*make comments*/
 body {
     background-color: #d9dcd6;
 }
@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header  {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {     /*changed to nav*/
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {       /*changed to nav from line 13 to 25*/
     display: inline-block;
     margin-left: 25px;
 }
